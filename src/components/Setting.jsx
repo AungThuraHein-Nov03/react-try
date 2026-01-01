@@ -1,5 +1,5 @@
-function Settings() {
+function Setting() {
   return <h2>Settings Page</h2>
 }
 
-export default Settings
+export default Setting
