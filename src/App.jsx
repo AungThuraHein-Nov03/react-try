@@ -7,6 +7,7 @@ return (
 <Routes>
 <Route path="/" element={<h1>Home</h1>} />
 <Route path="/profile" element={<Profile />} />
+<Route path="/setting" element={<Setting />} />
 </Routes>
 )
 }
